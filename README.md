@@ -50,7 +50,7 @@ real-time response submission logs in backend analytics) [View Here](https://www
 enterprise clients (tracked by integration success rate metrics via internal logging system)
 [View Here](https://www.questionpro.com/api/cx/import-responses.html).
 
-### 🔹 [Infosys](https://www.infosys.com/) – Specialist Programmer (Remote | Full-Time)  
+### 🔹 [Infosys](https://www.infosys.com/) – Specialist Programmer (Remote | India | Full-Time)  
 **September 2021 – August 2022** | [Relieving letter](https://drive.google.com/file/d/1WNYPCaRKBQ3MdzrtbvjfNzY9lDTDp__W/view?usp=sharing)
 - Developed a Kotlin/Spring Boot backend service from scratch, halving server startup latency by **50%**.
   (validated via performance benchmarks).
