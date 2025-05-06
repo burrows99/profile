@@ -31,14 +31,14 @@ incidents by **80%** (logged via PagerDuty incident tracker).
 - Integrated Salesforce CRM with AWS‑hosted microservices via Apex and JSForce SDK, boosting
 lead‑response efficiency by **35%** (monitored through Salesforce Reports & Dashboards).
 
-### 🔹 Turing – Data Scientist (Remote | USA | Contract)  
+### 🔹 [Turing](https://www.turing.com/) – Data Scientist (Remote | USA | Contract)  
 **June 2024 – August 2024** | [Contract](https://drive.google.com/file/d/1UK4eejUiBI1WqYq13-S_EvvLMSsjAIbd/view)
 - Curated high-quality prompts and reference completions for supervised fine-tuning of [Grok LLM](https://grok.com/),
   followed by RLHF. Evaluated response relevance using a hybrid of human feedback and automated metrics
   (LlamaIndex eval, FAST, and AlpacaEval). Achieved a **25%** improvement in output relevance and quality
   over baseline models, with comparative benchmarks against open-source LLMs.
 
-### 🔹 QuestionPro – Full-stack Developer (Remote | India | Full-Time)  
+### 🔹 [QuestionPro](https://www.questionpro.com/) – Full-stack Developer (Remote | India | Full-Time)  
 **August 2022 – July 2023** | [Relieving letter](https://drive.google.com/file/d/1ChjryCJHe-3Ys25Nx1F5otmmPbVx6yQ9/view) | [Letter of reference](https://drive.google.com/file/d/1btHj4dQCBZf0rKkR76mEGpsnKwCR2shW/view)
 - **Resolved 50+ UI defects in React codebase**, enhancing page load performance by **20%** (measured via
 Google Lighthouse) and reducing bug reports by **45%** (based on JIRA ticket volume analysis).
@@ -50,7 +50,7 @@ real-time response submission logs in backend analytics) [View Here](https://www
 enterprise clients (tracked by integration success rate metrics via internal logging system)
 [View Here](https://www.questionpro.com/api/cx/import-responses.html).
 
-### 🔹 Infosys – Specialist Programmer (Remote | Full-Time)  
+### 🔹 [Infosys](https://www.infosys.com/) – Specialist Programmer (Remote | Full-Time)  
 **September 2021 – August 2022** | [Relieving letter](https://drive.google.com/file/d/1WNYPCaRKBQ3MdzrtbvjfNzY9lDTDp__W/view?usp=sharing)
 - Developed a Kotlin/Spring Boot backend service from scratch, halving server startup latency by **50%**.
   (validated via performance benchmarks).
@@ -78,8 +78,9 @@ Three.js visualizer simulating orbital dynamics.
 Full-stack NLP backend for review sentiment classification.
 🔗 [GitHub Repo](https://github.com/burrows99/elastiq-backend)
 
-### 🧾 [Crowdfunding Blockchain App](https://github.com/burrows99/CrowdFundingAppWeb3)
+### 🧾 Crowdfunding Blockchain App
 Built with React, Web3, Solidity, Hardhat, and Ganache on the Ethereum test network.
+🔗 [GitHub Repo](https://github.com/burrows99/CrowdFundingAppWeb3)
 
 ---
 
