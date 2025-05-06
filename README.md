@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/69508267?v=4" width="150" height="150" style="border-radius: 50%;" alt="Raunak Burrows Profile Picture"/>
+  <img src="https://avatars.githubusercontent.com/u/69508267?v=4" width="150" alt="Raunak Burrows GitHub Profile Picture"/>
 </p>
 
 # 👋 About Me
