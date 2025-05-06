@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/69508267?v=4" width="150" height="150" style="border-radius: 50%;" alt="Raunak Burrows Profile Picture"/>
+</p>
+
 # 👋 About Me
 
 Hi, I’m **Raunak Burrows**, a **Full-stack Software Engineer** with 4+ years of experience designing, building, and deploying scalable web applications. I specialize in creating performance-optimized full-stack systems and AI-augmented applications using modern web technologies and cloud-native architecture.
